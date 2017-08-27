@@ -1,1 +1,1 @@
-# jersey-jpa-cdi
+"# My project's README" 
