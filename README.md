@@ -1,0 +1,1 @@
+# jersey-jpa-cdi
